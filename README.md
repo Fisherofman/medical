@@ -6,7 +6,9 @@ This is developed in node. The current version is 9.10.0.
 # Dependencies: install request,sqlite,emailjs
 
 npm install request
+
 npm install sqlite
+
 npm install emailjs
 
 # startup.txt
